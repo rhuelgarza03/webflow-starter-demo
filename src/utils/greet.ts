@@ -16,4 +16,5 @@ export const greetUser = (name: string) => {
       day: '2-digit',
     })}.`
   );
+  alert('check the console!');
 };
